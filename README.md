@@ -6,6 +6,7 @@ Here are some projects I am currently/recently working on:
 - [Kuantum Circuit Simulator](https://github.com/DEDZTBH/KuantumCircuitSim): A Fast & Lightweight Quantum Circuit Simulator & Analyzer implemented in Kotlin. Quantum Computing is no coin-flipping!
 
 ![EPR](https://raw.githubusercontent.com/DEDZTBH/KuantumCircuitSim/master/EPR.gif)
+</br>
 <sub>Making an EPR pair</sub>
 
 - [CMU Coin-flipping Experience](https://github.com/DEDZTBH/CMU_Coin-flipping_Experience): A Coin Flipping machine inspired by the IBM Q Experience. Quantum Computing is Cool!
