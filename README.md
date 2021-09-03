@@ -3,6 +3,7 @@
 Welcome to my GitHub page!
 Here are some of my current/recent projects:
 
+- [AWS CloudFormation IoTWireless Resource Providers](https://github.com/aws-cloudformation/aws-cloudformation-resource-providers-iotwireless): Added FUOTA (Firmware Update Over-the-Air) / MC (Multicast) resources to AWS CloudFormation, enabling automated and consistent provisioning of LoRaWAN IoT devices. (Using my [AWS internal account](https://github.com/lpeiqi-amz))
 - [serde-RESP](https://github.com/DEDZTBH/serde-RESP): Redis RESP protocol serialization and deserialization with serde
 - [Crab Cooking 101](https://github.com/DEDZTBH-Talent-Plan-Rust): Learning to ~~cook Ferris~~ write Rust by "Practical
   Networked Applications in Rust" offered by PingCAP Talent Plan.
