@@ -1,4 +1,4 @@
-Welcome to my GitHub page! I love working on open source projects but college life is busy (especially when that college is CMU SCS) so I don't really have lots of time. Here are some of my featured open-source projects:
+Welcome to my GitHub page! I love working on open source projects but college life is busy (especially when that college is CMU SCS) so I don't really have lots of time. Here are some of my featured open source projects:
 
 - [serde-RESP](https://github.com/dedztbh/serde-RESP): Redis RESP protocol serialization and deserialization with Rust serde.
 - [DEMagica](https://github.com/dedztbh/DEMagica): A fun (and perhaps useful) Minecraft mod that demonstrates using Kotlin for Forge modding!  
@@ -7,7 +7,7 @@ Welcome to my GitHub page! I love working on open source projects but college li
 - [Luojia1 Cloud Detection](https://github.com/dedztbh/luojia1-cloud-detection): Detect cloud in nighttime images from Luojia-1 satellite using basic filters.
 - [AOF Student Check System](https://github.com/AOFStudentCheckSystem): A comprehensive check-in system for student events I made with my friends back in high shcool with web/mobile/electron frontend and spring hibernate backend.
 
-I also contributed to other open-source projects, for example:
+I also contributed to other open source projects, for example:
 - [segtree](https://github.com/abigalekim/segtrees): Generic segmented tree data structure in various languages.
 - [ejml](https://github.com/lessthanoptimal/ejml): A popular Java linear algebra library.
 - [AWS CloudFormation IoTWireless Resource Providers](https://github.com/aws-cloudformation/aws-cloudformation-resource-providers-iotwireless/pull/13): Added FUOTA/MC resources to AWS CloudFormation, enabling automated and consistent provisioning of LoRaWAN IoT devices. (one of my intern projects)
