@@ -1,21 +1,18 @@
-[<img src="https://raw.githubusercontent.com/DEDZTBH/DEDZTBH/master/mira.jpg" height="150"/>]()
+Welcome to my GitHub page! I love working on open source projects but college life is busy (especially when that college is CMU SCS) so I don't really have lots of time. Here are some of my featured open-source projects:
 
-Welcome to my GitHub page!
-Here are some of my current/recent projects:
+- [serde-RESP](https://github.com/dedztbh/serde-RESP): Redis RESP protocol serialization and deserialization with Rust serde.
+- [DEMagica](https://github.com/dedztbh/DEMagica): A fun (and perhaps useful) Minecraft mod that demonstrates using Kotlin for Forge modding!  
+- [Kuantum Circuit Simulator](https://github.com/dedztbh/KuantumCircuitSim): A Fast & Lightweight Quantum Circuit
+  Simulator & Analyzer implemented in Kotlin. Quantum Computing is no [coin-flipping](https://github.com/dedztbh/CMU_Coin-flipping_Experience)!
+- [Luojia1 Cloud Detection](https://github.com/dedztbh/luojia1-cloud-detection): Detect cloud in nighttime images from Luojia-1 satellite using basic filters.
+- [AOF Student Check System](https://github.com/AOFStudentCheckSystem): A comprehensive check-in system for student events I made with my friends back in high shcool with web/mobile/electron frontend and spring hibernate backend.
 
-- [AWS CloudFormation IoTWireless Resource Providers](https://github.com/aws-cloudformation/aws-cloudformation-resource-providers-iotwireless/pull/13): Added FUOTA (Firmware Update Over-the-Air) / MC (Multicast) resources to AWS CloudFormation, enabling automated and consistent provisioning of LoRaWAN IoT devices. (Using my [AWS internal account](https://github.com/lpeiqi-amz))
-- [serde-RESP](https://github.com/DEDZTBH/serde-RESP): Redis RESP protocol serialization and deserialization with serde
-- [Crab Cooking 101](https://github.com/DEDZTBH-Talent-Plan-Rust): Learning to ~~cook Ferris~~ write Rust by "Practical
-  Networked Applications in Rust" offered by PingCAP Talent Plan.
-- [Kuantum Circuit Simulator](https://github.com/DEDZTBH/KuantumCircuitSim): A Fast & Lightweight Quantum Circuit
-  Simulator & Analyzer implemented in Kotlin. Quantum Computing is no coin-flipping!
-- [CMU Coin-flipping Experience](https://github.com/DEDZTBH/CMU_Coin-flipping_Experience): A Coin Flipping machine
-  inspired by the IBM Q Experience. Quantum Computing is Cool!
-<!-- - [minGPT Group Bot (server side)](https://github.com/DEDZTBH/minGPT-group-bot-server): q q 群 暴 论 b o t -
-  简单几步训练你群专属的暴论人工智能(zhang)！
-- [minGPT Group Bot (mirai side)](https://github.com/DEDZTBH/minGPT-group-bot-mirai): q q 群 暴 论 b o t (mirai端) -->
-- [Luojia1 Cloud Detection](https://github.com/DEDZTBH/luojia1-cloud-detection): Detect cloud in nighttime images from
-  Luojia-1 satellite using basic filters.
-- [A Tour of Color Temperature](https://dedztbh.github.io/a-tour-of-color-temperature): A website that demonstrates
-  different color temperatures and tells you why we should use warmer colors at night.
-  Repo [here](https://github.com/DEDZTBH/a-tour-of-color-temperature).
+I also contributed to other open-source projects, for example:
+- [segtree](https://github.com/abigalekim/segtrees): Generic segmented tree data structure in various languages.
+- [ejml](https://github.com/lessthanoptimal/ejml): A popular Java linear algebra library.
+- [AWS CloudFormation IoTWireless Resource Providers](https://github.com/aws-cloudformation/aws-cloudformation-resource-providers-iotwireless/pull/13): Added FUOTA/MC resources to AWS CloudFormation, enabling automated and consistent provisioning of LoRaWAN IoT devices. (one of my intern projects)
+- [face_recognition](https://github.com/ageitgey/face_recognition): A very popular Python library for facial recognition.
+
+Thanks for visiting!
+
+[<img src="https://raw.githubusercontent.com/dedztbh/dedztbh/master/mira.jpg" height="100"/>]()
