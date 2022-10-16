@@ -9,7 +9,7 @@ Welcome to my GitHub page! I love working on open source projects but college li
 
 I also contributed to other open source projects, for example:
 - [codelibrary](https://github.com/indy256/codelibrary): A popular collection of algorithms and data structures in various languages.
-- [segtree](https://github.com/abigalekim/segtrees): Generic segmented tree data structure in various languages.
+- [segtree](https://github.com/abigalekim/segtrees): Generic segment tree data structure in various languages.
 - [ejml](https://github.com/lessthanoptimal/ejml): A popular Java linear algebra library.
 - [AWS CloudFormation IoTWireless Resource Providers](https://github.com/aws-cloudformation/aws-cloudformation-resource-providers-iotwireless/pull/13): Added FUOTA/MC resources to AWS CloudFormation, enabling automated and consistent provisioning of LoRaWAN IoT devices. (one of my intern projects)
 - [face_recognition](https://github.com/ageitgey/face_recognition): A very popular Python library for facial recognition.
