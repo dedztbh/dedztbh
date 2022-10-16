@@ -8,6 +8,7 @@ Welcome to my GitHub page! I love working on open source projects but college li
 - [AOF Student Check System](https://github.com/AOFStudentCheckSystem): A comprehensive check-in system for student events I made with my friends back in high shcool with web/mobile/electron frontend and spring hibernate backend.
 
 I also contributed to other open source projects, for example:
+- [codelibrary](https://github.com/indy256/codelibrary): A popular collection of algorithms and data structures in various languages.
 - [segtree](https://github.com/abigalekim/segtrees): Generic segmented tree data structure in various languages.
 - [ejml](https://github.com/lessthanoptimal/ejml): A popular Java linear algebra library.
 - [AWS CloudFormation IoTWireless Resource Providers](https://github.com/aws-cloudformation/aws-cloudformation-resource-providers-iotwireless/pull/13): Added FUOTA/MC resources to AWS CloudFormation, enabling automated and consistent provisioning of LoRaWAN IoT devices. (one of my intern projects)
