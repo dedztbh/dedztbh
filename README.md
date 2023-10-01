@@ -14,6 +14,9 @@ I also contributed to other open source projects, for example:
 - [AWS CloudFormation IoTWireless Resource Providers](https://github.com/aws-cloudformation/aws-cloudformation-resource-providers-iotwireless/pull/13): Added FUOTA/MC resources to AWS CloudFormation, enabling automated and consistent provisioning of LoRaWAN IoT devices. (one of my intern projects)
 - [face_recognition](https://github.com/ageitgey/face_recognition): A very popular Python library for facial recognition.
 
+Experimental Video Games:
+- [Animetic](https://github.com/dedztbh/Animetic-Release): Animetic is an infinite flying 2D side-scroller / 3D runner game that explores the difference and connection between animetism and cinematism, with artistic style inspired by Ghost in the Shell 2. (Unfortunately not open source since some art assets are created by my classmate and license limitations)
+
 Thanks for visiting!
 
 [<img src="https://raw.githubusercontent.com/dedztbh/dedztbh/master/mira.jpg" height="100"/>]()
