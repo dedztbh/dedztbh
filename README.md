@@ -1,5 +1,6 @@
-Welcome to my GitHub page! I love working on open source projects but college life is busy (especially when that college is CMU SCS) so I don't really have lots of time. Here are some of my featured open source projects:
+Welcome to my GitHub page! Here are some of my featured open source projects:
 
+- [Game of Life PVP](https://github.com/dedztbh/GameOfLifePVP): What if Conway's game of life but PVP? Built with Godot 4 and C++20 with concurrency.
 - [serde-RESP](https://github.com/dedztbh/serde-RESP): Redis RESP protocol serialization and deserialization with Rust serde.
 - [DEMagica](https://github.com/dedztbh/DEMagica): A fun (and perhaps useful) Minecraft mod that demonstrates using Kotlin for Forge modding!  
 - [Kuantum Circuit Simulator](https://github.com/dedztbh/KuantumCircuitSim): A Fast & Lightweight Quantum Circuit
@@ -15,7 +16,8 @@ I also contributed to other open source projects, for example:
 - [face_recognition](https://github.com/ageitgey/face_recognition): A very popular Python library for facial recognition.
 
 Experimental Video Games:
-- [Animetic](https://github.com/dedztbh/Animetic-Release): Animetic is an infinite flying 2D side-scroller / 3D runner game that explores the difference and connection between animetism and cinematism, with artistic style inspired by Ghost in the Shell 2. (Unfortunately not open source since some art assets are created by my classmate and license limitations)
+- [Game of Life PVP](https://github.com/dedztbh/GameOfLifePVP): What if Conway's game of life but PVP? Built with Godot 4 and C++20 with concurrency.
+- [Animetic](https://github.com/dedztbh/Animetic-Release): Animetic is an infinite flying 2D side-scroller / 3D runner game that explores the difference and connection between animetism and cinematism, with artistic style inspired by Ghost in the Shell 2. (Unfortunately not open source since some art assets are created by my classmate and license limitations). Made with Unity.
 
 Thanks for visiting!
 
